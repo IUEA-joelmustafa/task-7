@@ -1,3 +1,4 @@
+package com.iuea.smartstudent;
 import javax.swing.*;
 import java.awt.*;
 
